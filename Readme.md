@@ -5,13 +5,15 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/Dean177/with-url-state.svg)](https://greenkeeper.io/)
 [![Npm](https://badge.fury.io/js/with-url-state.svg)](https://www.npmjs.com/package/with-url-state)
 
-Lifts state out of a react component and into the url
+This package allows applications to retrieve the state from a react component and appends it to the url.
 
 ![color-example](./example/color-example.gif)
 
 ## Installation
 
-`yarn add with-url-state` or `npm install with-url-state --save` if using npm
+To install with npm use `npm install with-url-state --save`
+
+To install with yarn use `yarn add with-url-state`
 
 ## Usage
 
